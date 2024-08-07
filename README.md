@@ -1,0 +1,2 @@
+# AutoDDNS
+AutoDDNS domain
